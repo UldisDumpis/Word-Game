@@ -1,0 +1,17 @@
+body{
+    background-color: #5fc26a
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#starta-poga{
+background-color: #700b0b;
+color: #fffcfc
+}
+
+#text{
+    display: none;
+}
